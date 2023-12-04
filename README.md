@@ -1,4 +1,4 @@
-[![MasterHead]([https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif](https://mir-s3-cdn-cf.behance.net/project_modules/hd/699e4762225981.5a89af14d87a9.gif))](https://rishavchanda.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/hd/699e4762225981.5a89af14d87a9.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Syed Ali</h1>
 <h3 align="center">A passionate Data Analyst From Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.rentechdigital.com/common_files/swipecart/Bloacg/machine-learning-vs-data-science-3.gif">
