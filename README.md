@@ -1,6 +1,6 @@
 [![MasterHead](https://www.aucodys.ch/images/Aucodys_GIFs/simul_daten_v02.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Syed Ali</h1>
-<h3 align="center">A passionate Data Analyst From Pakistan</h3>
+<h3 align="center">A passionate Data Analyst, Researcher and Monitoring and Evaluation Professional </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.rentechdigital.com/common_files/swipecart/Bloacg/machine-learning-vs-data-science-3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tariqsyed&label=Profile%20views&color=0e75b6&style=flat" alt="tariqsyed" /> </p>
