@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **tariqham@gmail.com**
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about my experiences https://www.linkedin.com/in/syed-ali-12149314/
 
 - ⚡ Fun fact **My favourite subject in school was Statistics, so I decided to become a Data Scientist.**
 
