@@ -11,7 +11,6 @@
 
 ## 🎯 About Me  
 
-💡 **Founder of Quiro & Lipy.ai** - Transforming SaaS with AI  
 💡 **Expert in Data Science, AI, and Cloud Computing**  
 💡 **Currently Exploring:** MLOps, Advanced AI Models, and Automation  
 💡 **Lifelong Learner:** Scaling AI-powered customer support solutions  
