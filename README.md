@@ -1,4 +1,4 @@
-[![MasterHead](https://www.aucodys.ch/images/Aucodys_GIFs/simul_daten_v02.gif)](https://alishaw99.github.io/Alishaw99-portfolio/)
+[![MasterHead](https://www.aucodys.ch/images/Aucodys_GIFs/simul_daten_v02.gif)](https://rishavchanda.io)
 
 <h1 align="center">👋 Hello, I'm Syed Ali 🚀</h1>
 <h3 align="center">🔍 Data Scientist | AI Enthusiast | SaaS Innovator</h3>
@@ -29,15 +29,15 @@
 ### 🧠 AI & Data Science  
 ✅ **Machine Learning | Deep Learning | NLP | AI Automation**  
 ✅ **TensorFlow | PyTorch | Scikit-Learn | OpenAI APIs**  
-✅ **Data Analysis & Visualization (Pandas, Matplotlib, Power BI, Seaborn)**  
+✅ **Data Analysis & Visualization (Pandas, Matplotlib, Power BI)**  
 
 ### ☁ Cloud & MLOps  
 ✅ **AWS | GCP | Azure | Docker | Kubernetes**  
-✅ **CI/CD Pipelines | Terraform | Model Deployment | Monitoring**  
+✅ **CI/CD Pipelines | Terraform | Model Deployment**  
 
 ### 🛠 Development & Tools  
-✅ **FastAPI | Flask | Node.js | React.js | Next.js**  
-✅ **Git/GitHub | SQL | NoSQL (MongoDB, PostgreSQL)**  
+✅ **FastAPI | Flask | Node.js**  
+✅ **React.js | Next.js | Git/GitHub**  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>  
@@ -45,9 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="50" alt="AWS"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="MySQL"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="Jupyter"/>  
 </p>
 
 ---
@@ -69,6 +66,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alishaw99&layout=compact&theme=radical" width="40%"/>
 </p>
 
+### 📊 GitHub Metrics (Alternative Stats Provider)  
+<p align="center">
+  <img src="https://metrics.lecoq.io/Alishaw99" width="60%" />
+</p>
+
 ### 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Alishaw99&theme=radical&no-frame=false&margin-w=4" />
@@ -81,14 +83,6 @@
 ✔ Built **AI-powered SaaS** platforms for **business automation**  
 ✔ Created **ML models** for **real-world business insights**  
 ✔ Scaled **B2B SaaS solutions** using AI & automation  
-
----
-
-## 🌍 Other Platforms  
-
-- 💼 **Kaggle**: [Alishaw99](https://www.kaggle.com/Alishaw99)  
-- 📊 **Power BI & Tableau Projects**: [Portfolio](https://alishaw99.github.io/Alishaw99-portfolio/)  
-- 💡 **Machine Learning Blogs & Research**: Coming soon!  
 
 ---
 
