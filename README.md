@@ -1,91 +1,91 @@
-<h1 align="center">Hi 👋, I'm Mohammed Saqhib</h1>
-<h3 align="center">Aspiring Data Professional | Proficient in Data Visualization, Data Engineering & Decision Sciences</h3>
+[![MasterHead](https://www.aucodys.ch/images/Aucodys_GIFs/simul_daten_v02.gif)](https://rishavchanda.io)
+
+<h1 align="center">👋 Hello, I'm Syed Ali 🚀</h1>
+<h3 align="center">🔍 Data Scientist | AI Enthusiast | SaaS Innovator</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohammed-saqhib-87b8b325a" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Mohammed-Saqhib" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://mohammedtyson.my.canva.site/msaqhib-portfolio" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600"/>
 </p>
 
 ---
 
-### 🛠️ Technical Skills
-- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Excel
-- **Programming Languages**: Python, SQL (MySQL, PostgreSQL), R
-- **Database Management**: PostgreSQL, MySQL
-- **Tools & Platforms**: Git/GitHub, Jupyter Notebook, PyCharm, Power BI Services
+## 🎯 About Me  
+
+💡 **Founder of Quiro & Lipy.ai** - Transforming SaaS with AI  
+💡 **Expert in Data Science, AI, and Cloud Computing**  
+💡 **Currently Exploring:** MLOps, Advanced AI Models, and Automation  
+💡 **Lifelong Learner:** Scaling AI-powered customer support solutions  
+
+📬 **Connect With Me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedtariq-ali/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tariqsyed)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tariqham@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](#)  
 
 ---
 
-### 🌟 Professional Summary
-I’m a highly motivated ** BCA Student** from Dayanand Sagar University, Bengaluru, with expertise in data visualization, data engineering, and decision sciences. I am passionate about solving complex problems using statistical models and delivering actionable insights through visual storytelling.
+## 🚀 Tech Stack  
 
----
+### 🧠 AI & Data Science  
+✅ **Machine Learning | Deep Learning | NLP | AI Automation**  
+✅ **TensorFlow | PyTorch | Scikit-Learn | OpenAI APIs**  
+✅ **Data Analysis & Visualization (Pandas, Matplotlib, Power BI)**  
 
-### 🔥 GitHub Stats
+### ☁ Cloud & MLOps  
+✅ **AWS | GCP | Azure | Docker | Kubernetes**  
+✅ **CI/CD Pipelines | Terraform | Model Deployment**  
+
+### 🛠 Development & Tools  
+✅ **FastAPI | Flask | Node.js**  
+✅ **React.js | Next.js | Git/GitHub**  
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Saqhib&show_icons=true&theme=radical&count_private=true" alt="Mohammed Saqhib's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Saqhib&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="50" alt="AWS"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>  
 </p>
 
 ---
 
-### 💼 Professional Experience
-#### **Data Science and AI Intern** – *Ioncure Tech Pvt. Ltd*  
-*June – August 2024*  
-- Extracted global data using Python-based web scraping techniques.
-- Created interactive Power BI dashboards to visualize trends for client projects.
-- Automated mass email workflows and streamlined reporting processes.
+## 📊 GitHub Analytics  
 
-#### **Data Mapping Intern** – *Singularium Technologies*  
-*October – November 2024*  
-- Conducted data mapping and ensured data accuracy using StepZero technology.
-- Designed scalable workflows for streamlined data processing.
+### 🔥 Contribution Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqsyed&theme=radical" width="50%" />
+</p>
 
-#### **Data Analyst** – *ADM Education Society (NGO)*  
-*November – December 2024*  
-- Collected and analyzed CSR-related data using Python and Jupyter Notebook.
-- Automated data extraction processes and optimized resource allocation.
+### 🚀 GitHub Overview  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tariqsyed&show_icons=true&theme=radical" width="50%"/>
+</p>
 
----
+### 🌟 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqsyed&layout=compact&theme=radical" width="40%"/>
+</p>
 
-### 🎓 Education
-- **BCA** – Dayanand Sagar University, Bengaluru (*2022 – Present*)
-- **Class XII (CBSE)** – Kendriya Vidyalaya, Chandigarh (*2022*)
-- **Class X (CBSE)** – Kendriya Vidyalaya, Chandigarh (*2020*)
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tariqsyed&theme=radical&no-frame=false&margin-w=4" />
+</p>
 
 ---
 
-### 📂 Key Projects
-- **Fraud Detection Model**  
-  Built a machine learning model to detect fraudulent transactions from a 6M+ dataset with high precision and recall.
-  
-- **BookStoreApp**  
-  Developed a full-stack app with Node.js, Express.js, and MongoDB, featuring user authentication and responsive design.
+## 🏆 Achievements  
 
-- **Inventory Management System**  
-  Created a PostgreSQL-backed system to manage inventory workflows with efficient schema designs and optimized queries.
+✔ Built **AI-powered SaaS** platforms for **business automation**  
+✔ Created **ML models** for **real-world business insights**  
+✔ Scaled **B2B SaaS solutions** using AI & automation  
 
 ---
 
-### 🏆 Certifications & Training
-- **IBM Data Engineering Professional Certificate** – Coursera  
-- **SQL Bootcamp** – Udemy  
-- **Advanced Data Analytics Course** – WsCube Tech  
+## 📬 Contact Me  
+📧 **Email:** tariqham@gmail.com  
+🌐 **LinkedIn:** [syedtariq-ali](https://www.linkedin.com/in/syedtariq-ali/)  
+📲 **Twitter:** [@tariqsyed](https://twitter.com/tariqsyed)  
 
 ---
 
-### 📫 Let's Connect
-- **Email**: msaqhib76@gmail.com  
-- **Phone**: +91-6239121164  
-- **Location**: Bengaluru, India  
-
----
-
-*“Passionate about turning data into actionable insights!”*
+<h3 align="center">🚀 "Building the Future with AI & Data Science" 🚀</h3>
